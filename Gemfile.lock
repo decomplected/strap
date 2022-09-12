@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.3)
+    activesupport (7.0.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -31,7 +31,7 @@ GEM
       guard-compat (~> 1.2, >= 1.2.1)
       spoon (~> 0.0.1)
     hashie (5.0.0)
-    i18n (1.10.0)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     jwt (2.4.1)
     kgio (2.11.4)
@@ -40,7 +40,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     lumberjack (1.2.8)
     method_source (1.0.0)
-    minitest (5.15.0)
+    minitest (5.16.3)
     multi_json (1.15.0)
     multi_xml (0.6.0)
     mustermann (1.1.1)
@@ -111,7 +111,7 @@ GEM
       ffi
     thor (1.2.1)
     tilt (2.0.10)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.1.0)
     unicorn (6.1.0)
